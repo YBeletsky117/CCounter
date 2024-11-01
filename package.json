@@ -1,0 +1,19 @@
+{
+  "name": "dragon-family-counter-component",
+  "version": "1.0.0",
+  "description": "native component for counter",
+  "main": "src/index",
+  "files": [
+    "cpp",
+    "ios",
+    "*.podspec"
+  ],
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "create-react-native-library": {
+    "type": "view-legacy",
+    "languages": "kotlin-swift",
+    "version": "0.42.2"
+  }
+}
